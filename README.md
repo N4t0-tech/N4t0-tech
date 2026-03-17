@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Renato Campos</h1>
 <h3 align="center">I'm Renato Campos, a 21 year old web development enthusiast and novice, studying a Telecommunications Technologist at the University of Santiago de Chile.</h3>
 <h1>💻 My skills:</h1>
-### Languages and Tools 🛠 
+<h3> Languages and Tools 🛠 </h3>
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
