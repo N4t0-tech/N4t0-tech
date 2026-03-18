@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Renato+Campos;Software+%26+Telecom+Developer;Universidad+de+Santiago+de+Chile;Building+real+things+with+C%2B%2B+%26+more" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Renato+Campos;Software+%26+Telecom+Developer;Universidad+de+Santiago+de+Chile;Building+real+things+with+C%2B%2B+%26+more;I+use+Arch+btw+%F0%9F%90%A7" alt="Typing SVG" />
   </a>
 </p>
 
@@ -80,6 +80,9 @@ I'm a 22-year-old Telecommunications Technologist student at **Universidad de Sa
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/-N4t0--tech-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/N4t0-tech)
+[![Gmail](https://img.shields.io/badge/-renaxd13@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:renaxd13@gmail.com)
+[![Discord](https://img.shields.io/badge/-nato__ds-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/nato_ds)
+[![LinkedIn](https://img.shields.io/badge/-Renato%20Campos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-campos-gonz%C3%A1lez-40a82b234)
 
 ---
 
