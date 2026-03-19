@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a 22-year-old Telecommunications Technologist student at **Universidad de Santiago de Chile (USACH)**, based in Santiago. I build real software — from a full 2D game engine ([Tenebrarium](https://github.com/N4t0-tech/Tenebrarium)) to web tools and automation scripts. I enjoy working close to the metal with C++ and across the stack with web technologies.
+I'm a 23-year-old Telecommunications Technologist student at **Universidad de Santiago de Chile (USACH)**, based in Santiago. I build real software — from a full 2D game engine ([Tenebrarium](https://github.com/N4t0-tech/Tenebrarium)) to web tools and automation scripts. I enjoy working close to the metal with C++ and across the stack with web technologies.
 
 - Currently working on **Tenebrarium**, a C++17 2D game built with Raylib
 - Studying at **USACH**, Santiago, Chile
