@@ -24,6 +24,8 @@ I'm a 23-year-old Telecommunications Technologist student at **Universidad de Sa
 ![C++](https://img.shields.io/badge/-C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
 ![6502 Assembly](https://img.shields.io/badge/-6502%20Assembly-6E4C13?style=flat-square&logo=atari&logoColor=ffffff)
 
 **Web & Frontend**
