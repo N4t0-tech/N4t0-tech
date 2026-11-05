@@ -51,24 +51,6 @@ I'm a 23-year-old Telecommunications Technologist student at **Universidad de Sa
 
 ---
 
-## GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=N4t0-tech&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Renato's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=N4t0-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4t0-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## Featured Project
 
 <p align="center">
