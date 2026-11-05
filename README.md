@@ -8,9 +8,10 @@
 
 ## About Me
 
-I'm a 23-year-old Telecommunications Technologist student at **Universidad de Santiago de Chile (USACH)**, based in Santiago. I build real software — from a full 2D game engine ([Tenebrarium](https://github.com/N4t0-tech/Tenebrarium)) to web tools and automation scripts. I enjoy working close to the metal with C++ and across the stack with web technologies.
+I'm a 23-year-old Telecommunications Technologist student at **Universidad de Santiago de Chile (USACH)**, based in Santiago. I build real software — from a turn-based dungeon RPG ([Tenebrarium](https://github.com/N4t0-tech/Tenebrarium)) to Atari 8-bit games in 6502 assembly and web tools. I enjoy working close to the metal with C++ and assembly, and across the stack with web technologies.
 
-- Currently working on **Tenebrarium**, a C++17 2D game built with Raylib
+- Currently working on **Tenebrarium**, a C++17 dungeon RPG built with Raylib — [play it on itch.io](https://halleynato.itch.io/tenebrarium)
+- Writing **Atari 800XL** games from scratch in 6502 assembly
 - Studying at **USACH**, Santiago, Chile
 - Comfortable across systems, web, and tooling
 
@@ -23,6 +24,7 @@ I'm a 23-year-old Telecommunications Technologist student at **Universidad de Sa
 ![C++](https://img.shields.io/badge/-C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![6502 Assembly](https://img.shields.io/badge/-6502%20Assembly-6E4C13?style=flat-square&logo=atari&logoColor=ffffff)
 
 **Web & Frontend**
 
@@ -73,7 +75,15 @@ I'm a 23-year-old Telecommunications Technologist student at **Universidad de Sa
   </a>
 </p>
 
-> A 2D game built from scratch in C++17 with Raylib — custom entity system, collision, animations, and level design.
+> A turn-based dungeon RPG with a TUI look, built from scratch in C++17 with Raylib — procedural BSP dungeons, action-point combat, 3 classes with skill trees, a village with shop and forge, and 20 floors with bosses every 5.
+>
+> [![Play on itch.io](https://img.shields.io/badge/itch.io-Play-fa5c5c?style=flat-square&logo=itch.io&logoColor=white)](https://halleynato.itch.io/tenebrarium)
+
+## Other Projects
+
+- **[Kaiju (SUPPA ROBOTTO)](https://github.com/N4t0-tech/Atari-Juego-Kaiju-SUPPA-ROBOTTO-)** — Atari 8-bit remake written from scratch in 6502 assembly, with rules reverse-engineered from the original binary and a browser-based sprite/level editor
+- **[Kaiju 2](https://github.com/N4t0-tech/Atari-Juego-Kaiju-2)** — sequel with new levels, enemy bullets and a compressed title screen
+- **[Web Portfolio](https://github.com/N4t0-tech/web-portafolio)** — personal site styled as a Windows 98 desktop: draggable windows, taskbar, start menu and Web Audio sounds, in plain HTML/CSS/JS
 
 ---
 
