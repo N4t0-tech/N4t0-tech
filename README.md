@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Renato%20Campos&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20%26%20Telecom%20Developer%20%C2%B7%20USACH%2C%20Chile&descSize=18&descAlignY=56" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Renato%20Campos&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20%26%20Telecom%20Developer%20%C2%B7%20USACH%2C%20Chile&descSize=18&descAlignY=56" width="100%" alt="Renato Campos — Software &amp; Telecom Developer" />
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -70,4 +70,4 @@ I'm a 23-year-old Telecommunications Technologist student at **Universidad de Sa
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=120&section=footer" width="100%" alt="" />
