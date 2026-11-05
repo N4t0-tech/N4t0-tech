@@ -1,85 +1,73 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Renato%20Campos&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20%26%20Telecom%20Developer%20%C2%B7%20USACH%2C%20Chile&descSize=18&descAlignY=56" width="100%" alt="Header" />
+
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Renato+Campos;Software+%26+Telecom+Developer;Universidad+de+Santiago+de+Chile;Building+real+things+with+C%2B%2B+%26+more;I+use+Arch+btw+%F0%9F%90%A7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Building+real+things+with+C%2B%2B+%26+more;Atari+8-bit+games+in+6502+assembly;Web+tools+in+plain+HTML%2FCSS%2FJS;I+use+Arch+btw+%F0%9F%90%A7" alt="Typing SVG" />
   </a>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/N4t0-tech"><img src="https://img.shields.io/badge/GitHub-N4t0--tech-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:renaxd13@gmail.com"><img src="https://img.shields.io/badge/Gmail-renaxd13-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://discord.com/users/nato_ds"><img src="https://img.shields.io/badge/Discord-nato__ds-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://www.linkedin.com/in/renato-campos-gonz%C3%A1lez-40a82b234"><img src="https://img.shields.io/badge/LinkedIn-Renato%20Campos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ## About Me
 
 I'm a 23-year-old Telecommunications Technologist student at **Universidad de Santiago de Chile (USACH)**, based in Santiago. I build real software — from a turn-based dungeon RPG ([Tenebrarium](https://github.com/N4t0-tech/Tenebrarium)) to Atari 8-bit games in 6502 assembly and web tools. I enjoy working close to the metal with C++ and assembly, and across the stack with web technologies.
 
-- Currently working on **Tenebrarium**, a C++17 dungeon RPG built with Raylib — [play it on itch.io](https://halleynato.itch.io/tenebrarium)
-- Writing **Atari 800XL** games from scratch in 6502 assembly
-- Studying at **USACH**, Santiago, Chile
-- Comfortable across systems, web, and tooling
-
----
+- 🎮 Currently working on **Tenebrarium**, a C++17 dungeon RPG built with Raylib — [play it on itch.io](https://halleynato.itch.io/tenebrarium)
+- 👾 Writing **Atari 800XL** games from scratch in 6502 assembly
+- 🎓 Studying at **USACH**, Santiago, Chile
 
 ## Tech Stack
 
-**Languages**
-
-![C++](https://img.shields.io/badge/-C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
-![6502 Assembly](https://img.shields.io/badge/-6502%20Assembly-6E4C13?style=flat-square&logo=atari&logoColor=ffffff)
-
-**Web & Frontend**
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-
-**Backend & Runtime**
-
-![Node.js](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![PowerShell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Raylib](https://img.shields.io/badge/-Raylib-white?style=flat-square&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=black)
-
----
-
-## Featured Project
-
 <p align="center">
-  <a href="https://github.com/N4t0-tech/Tenebrarium">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N4t0-tech&repo=Tenebrarium&theme=tokyonight&hide_border=true" alt="Tenebrarium" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java,html,css,bootstrap,md,nodejs&theme=dark" alt="Languages and web" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,powershell,arch,linux&theme=dark" alt="Tools" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/6502%20Assembly-1a1b27?style=for-the-badge&logo=atari&logoColor=70a5fd" alt="6502 Assembly" />
+  <img src="https://img.shields.io/badge/Raylib-1a1b27?style=for-the-badge" alt="Raylib" />
 </p>
 
-> A turn-based dungeon RPG with a TUI look, built from scratch in C++17 with Raylib — procedural BSP dungeons, action-point combat, 3 classes with skill trees, a village with shop and forge, and 20 floors with bosses every 5.
->
-> [![Play on itch.io](https://img.shields.io/badge/itch.io-Play-fa5c5c?style=flat-square&logo=itch.io&logoColor=white)](https://halleynato.itch.io/tenebrarium)
+## Projects
 
-## Other Projects
-
-- **[Kaiju (SUPPA ROBOTTO)](https://github.com/N4t0-tech/Atari-Juego-Kaiju-SUPPA-ROBOTTO-)** — Atari 8-bit remake written from scratch in 6502 assembly, with rules reverse-engineered from the original binary and a browser-based sprite/level editor
-- **[Kaiju 2](https://github.com/N4t0-tech/Atari-Juego-Kaiju-2)** — sequel with new levels, enemy bullets and a compressed title screen
-- **[Web Portfolio](https://github.com/N4t0-tech/web-portafolio)** — personal site styled as a Windows 98 desktop: draggable windows, taskbar, start menu and Web Audio sounds, in plain HTML/CSS/JS
-
----
-
-## Connect
-
-[![GitHub](https://img.shields.io/badge/-N4t0--tech-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/N4t0-tech)
-[![Gmail](https://img.shields.io/badge/-renaxd13@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:renaxd13@gmail.com)
-[![Discord](https://img.shields.io/badge/-nato__ds-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/nato_ds)
-[![LinkedIn](https://img.shields.io/badge/-Renato%20Campos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-campos-gonz%C3%A1lez-40a82b234)
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/N4t0-tech/Tenebrarium">⚔️ Tenebrarium</a></h3>
+      Turn-based dungeon RPG with a TUI look, in C++17 + Raylib. Procedural BSP dungeons, action-point combat, 3 classes with skill trees, a village with shop and forge, and 20 floors with a boss every 5.
+      <br /><br />
+      <a href="https://halleynato.itch.io/tenebrarium"><img src="https://img.shields.io/badge/Play-itch.io-fa5c5c?style=flat-square&logo=itch.io&logoColor=white" alt="Play on itch.io" /></a>
+      <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++17" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/N4t0-tech/Atari-Juego-Kaiju-SUPPA-ROBOTTO-">🤖 Kaiju</a></h3>
+      Atari 8-bit remake of <i>SUPPA ROBOTTO</i>, written from scratch in 6502 assembly. Rules reverse-engineered from the original binary, plus a browser-based sprite and level editor.
+      <br /><br />
+      <img src="https://img.shields.io/badge/6502-Assembly-6E4C13?style=flat-square&logo=atari&logoColor=white" alt="6502 Assembly" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/N4t0-tech/Atari-Juego-Kaiju-2">🤖 Kaiju 2</a></h3>
+      The sequel: new levels, enemy bullets and a compressed title screen.
+      <br /><br />
+      <img src="https://img.shields.io/badge/6502-Assembly-6E4C13?style=flat-square&logo=atari&logoColor=white" alt="6502 Assembly" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/N4t0-tech/web-portafolio">🖥️ Web Portfolio</a></h3>
+      Personal site styled as a Windows 98 desktop: draggable windows, taskbar, start menu and Web Audio sounds, in plain HTML/CSS/JS.
+      <br /><br />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=120&section=footer" width="100%" alt="Footer" />
